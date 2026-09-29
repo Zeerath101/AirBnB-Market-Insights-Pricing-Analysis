@@ -1,7 +1,13 @@
 # AirBnB-Market-Insights-Pricing-Analysis
 
-✅ Data Collection & Cleaning: Preparing Airbnb data for analysis.
-✅ Exploratory Data Analysis (EDA): Identifying trends, patterns, and insights in the rental market.
-✅ Visualization: Creating stunning charts and graphs to present findings.
-✅ Feature Engineering & Model Building: Developing predictive models for price estimation.
-✅ Insights & Conclusion: Key takeaways and actionable findings to optimize Airbnb listings.
+In this project we find out: 
+
+1) What is the distribution of listing prices?
+
+2) How are different room types distributed?
+
+3) How are listings distributed across different neighborhoods?
+
+4) What is the relationship between price and room type?
+
+5) How has the number of reviews changed over time?
